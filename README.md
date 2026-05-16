@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/status-em_construção-yellow)
 ![Licença](https://img.shields.io/badge/licença-MIT-green)
-![Contribuidores](https://img.shields.io/badge/contribuidores-0-blue)
+![Contribuidores](https://img.shields.io/badge/contribuidores-2-blue)
 
 ## Sobre
 
@@ -38,13 +38,13 @@ Repositório colaborativo da turma de **Análise e Desenvolvimento de Sistemas**
 |------|--------|---------|
 | Resumo | `resumo-assunto.md` | `resumo-sql-joins.md` |
 | Exercício | `ex-numero-assunto.md` | `ex-01-logica-variaveis.md` |
-| Código | `nome-programa.linguagem` | `calculadora-media.py` |
+| Código | `NomePrograma.linguagem` | `CalculadoraMedia.java` |
 
 ## 👥 Contribuidores
 
 | Nome | GitHub | Turma |
 |------|--------|-------|
-| Seu Nome | @seuusuario | 2025/1 |
+| Gabriel Cardoso | @GabrielCardoso-0 | 2025/1 |
 
 ## 📜 Licença
 
