@@ -1,0 +1,44 @@
+# Compiled class files
+*.class
+*.jar
+*.war
+*.ear
+
+# Packages
+target/
+build/
+out/
+dist/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+*.swp
+*.swo
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+
+# Gradle
+.gradle/
+gradle-app.setting
+build.gradle
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+application.properties
+*.key
+*.pem
